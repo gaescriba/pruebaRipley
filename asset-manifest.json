@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pruebaRipley/static/css/main.bf767f3c.chunk.css",
+    "main.js": "/pruebaRipley/static/js/main.d1df49bf.chunk.js",
+    "main.js.map": "/pruebaRipley/static/js/main.d1df49bf.chunk.js.map",
+    "runtime-main.js": "/pruebaRipley/static/js/runtime-main.8c8e7c6e.js",
+    "runtime-main.js.map": "/pruebaRipley/static/js/runtime-main.8c8e7c6e.js.map",
+    "static/js/2.d455a980.chunk.js": "/pruebaRipley/static/js/2.d455a980.chunk.js",
+    "static/js/2.d455a980.chunk.js.map": "/pruebaRipley/static/js/2.d455a980.chunk.js.map",
+    "static/js/3.a6a0989d.chunk.js": "/pruebaRipley/static/js/3.a6a0989d.chunk.js",
+    "static/js/3.a6a0989d.chunk.js.map": "/pruebaRipley/static/js/3.a6a0989d.chunk.js.map",
+    "index.html": "/pruebaRipley/index.html",
+    "static/css/main.bf767f3c.chunk.css.map": "/pruebaRipley/static/css/main.bf767f3c.chunk.css.map",
+    "static/js/2.d455a980.chunk.js.LICENSE.txt": "/pruebaRipley/static/js/2.d455a980.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c8e7c6e.js",
+    "static/js/2.d455a980.chunk.js",
+    "static/css/main.bf767f3c.chunk.css",
+    "static/js/main.d1df49bf.chunk.js"
+  ]
+}
